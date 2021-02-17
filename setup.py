@@ -20,7 +20,7 @@ setup(
 
     url='https://github.com/averak/plot-wav',
 
-    desription='A tool for drawing wav files with various acoustic transformations.',
+    desription='CLI tool for drawing wav files with various acoustic transformations.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     keywords='wave spectrogram MFCC audio',

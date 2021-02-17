@@ -3,7 +3,7 @@
 [![PyPi](https://badge.fury.io/py/plot-wav.svg)](https://pypi.python.org/pypi/plot-wav/)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-This project is a tool for drawing wav files with various acoustic transformations.
+This project is a CLI tool for drawing wav files with various acoustic transformations.
 
 ## Requirement
 
